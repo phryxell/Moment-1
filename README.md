@@ -17,6 +17,6 @@
 
 [Mittuniversitetets program för webbutveckling](https://www.miun.se/webbutveckling)
 
-Markdown Cheatsheet [1]
+[Markdown Cheatsheet] [1]
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
